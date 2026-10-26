@@ -119,14 +119,14 @@
         {% if button_discord %}
           <div class="skills__project project" id="project">
               <img class="project__img" src="../static/img/discord-project.png" alt="project" width="500">
-              <a class="project__link" href="https://github.com/BradleySandoval/Tarea-de-koland-2" target="_blank">https://github.com/BradleySandoval/tarea_kodland_juego_discord.git</a>
+              <a class="project__link" href="https://github.com/BradleySandoval/Tarea-de-koland-2.git" target="_blank">https://github.com/BradleySandoval/tarea_kodland_juego_discord.git</a>
           </div>
         {% endif %}
 
          {% if button_db %}
           <div class="skills__project project" id="project">
               <img class="project__img" src="../static/img/db-project.png" alt="project" width="500">
-              <a class="project__link" href="https://github.com/BradleySandoval/tarea_kodland_diario/tree/main" target="_blank">https://github.com/BradleySandoval/tarea_kodland_juego_db.git</a>
+              <a class="project__link" href="https://github.com/BradleySandoval/tarea_kodland_diario.git" target="_blank">https://github.com/BradleySandoval/tarea_kodland_juego_db.git</a>
           </div>
         {% endif %}
       </section>
